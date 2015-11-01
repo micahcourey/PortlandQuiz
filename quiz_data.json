@@ -1,0 +1,53 @@
+[
+  {
+    "question": "What River divides the city of Portland",
+    "answers" :[
+      { "id" : 0, "text" : "Columbia" },
+      { "id" : 1, "text" : "Willamette" },
+      { "id" : 2, "text" : "Mississippi" },
+      { "id" : 3, "text" : "Rio Grande" }
+    ],
+    "correct" : 1
+  },
+  {
+		"question" : "Portland is home to the worlds largest independent _______.",
+		"answers"  : [
+			{"id"  : 0, "text" : "Movie Theater" },
+			{"id"  : 1, "text" : "Music Label" },
+			{"id"  : 2, "text" : "Bank" },
+			{"id"  : 3, "text" : "Bookstore" }
+		],
+		"correct"  : 3
+	},
+	{
+		"question" : "What city was Portland almost named after?",
+		"answers"  : [
+			{"id"  : 0, "text" : "Atlanta"},
+			{"id"  : 1, "text" : "New York"},
+			{"id"  : 2, "text" : "Boston"},
+			{"id"  : 3, "text" : "Pittsburgh"}
+		],
+		"correct"  : 2
+	},
+	{
+		"question" : "Portland is the second friendliest city in USA for what form of transportation?",
+		"answers"  : [
+			{"id"  : 0, "text" : "Bus"},
+			{"id"  : 1, "text" : "Streetcar"},
+			{"id"  : 2, "text" : "Car"},
+			{"id"  : 3, "text" : "Skateboard"},
+			{"id"  : 4, "text" : "Bicycle"},
+			{"id"  : 5, "text" : "Motorcycle"}
+		],
+		"correct"  : 4,
+		"feedback" : "Though Portland has great public transportation, it is the second most bicycle friendly city in the country behind Minneapolis."
+	},
+	{
+		"question" : "You can pump your own gas in Portland",
+		"answers"  : [
+			{"id"  : 0, "text" : "True"},
+			{"id"  : 1, "text" : "False"}
+		],
+		"correct"  : 1
+	}
+]

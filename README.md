@@ -1,7 +1,7 @@
-Quiz
-====
+Portland Quiz
+=============
 
-A quiz web app. Check it out at: http://micahcourey.github.io/PortlandQuiz
+A quiz web app built in AngularJS. Check it out at: http://micahcourey.github.io/PortlandQuiz
 
 Setup
 ----------
@@ -14,7 +14,7 @@ $ git clone https://github.com/micahcourey/QuizAngularJS-.git
 ```console
 $ python -m SimpleHTTPServer
 ```
-* Open 'index.html' in a browser of your choice
+* Open 'localhost:8000' in a web browser
 
 Technologies Used
 ----------
